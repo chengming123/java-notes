@@ -90,6 +90,78 @@
 + 第二条
 
 ### 列表中嵌套其他元素
+#### 段落
+- 第一条   
+ 测试段落
+- 第二条
+> 测试引用块
+
+1. 测试段落
+   
+    段落   
+
+1.测试代码块
+<html>
+  <head>
+    <title>代码块</title>
+  </head>
+</html>
+
+1.测试图片
+
+## 代码语法
+
+type `nano`
+
+`` using `code` ``
+
+    <html>
+      <head>
+      
+      </head>
+    </html>
+
+## 分割线
+    测试分割线
+  ------
+    测试分割线
+
+## 链接语法
+这是一个连接[markDown语法](https://www.baidu.com)
+
+### 给链接增加title
+这是一个有title的[markdown语法](https://www.baidu.com "这是百度搜索哦")
+
+### email和网址地址
+<https://www.baidu.com>  
+<326699143@qq.copm>
+
+### 带格式化的连接
+这是一个加粗的连接 **[加粗连接](https://www.baidu.com)**  
+
+这是一个 *[斜体链接](http://www.baidu.com)*
+
+这是一个 ***[粗斜体链接](http://www.baidu.com)***
+
+
+## markdown图片语法
+![picture](/pic/test.jpg "这是个图片")
+
+### 链接图片
+[![点击图片跳转](/pic/test.jpg)](https://www.baidu.com)
+
+## 转义字符语法
+\* 
+
+
+
+
+
+
+
+
+
+
 
 
 
